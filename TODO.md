@@ -4,14 +4,17 @@
 
 - [ ] Toy Problem (Shortest Path)
 - [ ] Toy Algorithm (Local Search)
-- [ ] Solution (Component Pattern)
-- [ ] Optimizer (Component Pattern)
-- [ ] Stop Condition 
 - [ ] Executor (Command Pattern, Threads)
 
 ### In Progress
 
-- [ ] Problem (Component Pattern)
+### Testing
+
+- [x] Component Pattern
+- [x] Problem (Component Pattern)
+- [x] Optimizer (Component Pattern)
+- [x] Stop Condition
+- [x] Solution (Component Pattern)
 
 ### Done
 
